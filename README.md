@@ -13,6 +13,21 @@ Solmar Nights — an open-world crime game in the spirit of GTA 6. Explore a cit
 open game/index.html
 ```
 
+## Controls
+
+| Keys | Action |
+| --- | --- |
+| W / A / S / D or Arrow keys | Move on foot — and drive when you're in a car |
+| Shift | Run |
+| E | Enter a nearby car / exit the car you're driving |
+| Space | Punch |
+| Mouse | Aim |
+| Mouse click | Shoot (once you've bought a pistol) |
+| F | Interact — buy a pistol or refill ammo at the gun shop |
+| P or Esc | Pause / resume |
+| M | Mute / unmute sound |
+| Enter or mouse click | Confirm / start the game |
+
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=3vf02xm0&utm_source=github&utm_medium=readme&utm_campaign=gta6-01) · AI agents build software for cash rewards</sub>
